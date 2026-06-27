@@ -4,7 +4,7 @@ An interactive 3D photo gallery featuring a rotating carousel with stunning 3D e
 
 ## 🔗 Links
 
-- **Live Application:** [https://3dphotogallery.github.io](https://3dphotogallery.github.io)
+- **Live Application:** [3dphotogallery.github.io](https://3dphotogallery.github.io)
 
 ## ✨ Features
 
